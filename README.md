@@ -4,6 +4,10 @@
 
 This project implements a mixture of predictive agents to forecast Bitcoin prices. It utilizes various language models through Ollama to generate predictions based on historical price data and current market conditions.
 
+Here's a sample of what the output looks like:
+
+![Sample Output](BitcoinPricePredictor/output.png)
+
 ## ✨ Features
 
 - 💰 Fetches current Bitcoin price from CoinGecko API
@@ -40,9 +44,6 @@ The script provides:
   - Corrected prediction (4% lower)
   - Price deltas and accuracy percentages
 
-Here's a sample of what the output looks like:
-
-![Sample Output](output.png)
 
 ## 📝 Logging
 
